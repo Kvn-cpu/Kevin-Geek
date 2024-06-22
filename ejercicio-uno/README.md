@@ -6,4 +6,4 @@
 1. listas ordenadas
 2. cc
 
-[x] Ejercicio
+- [x] Ejercicio

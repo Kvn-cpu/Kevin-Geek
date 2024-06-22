@@ -1,0 +1,7 @@
+Comandos js:
+console.log(): Imprime en consola
+typeof(): muestra tipo de dato de las variables
+alert(): ventana emergente en el navegador
+document,write: Muesta la informacion en el archivo index.html
+prompt: Ventana emergente para ingresar datos
+Number(): permite convertir texto a numero
