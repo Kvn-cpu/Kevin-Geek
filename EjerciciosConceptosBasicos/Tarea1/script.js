@@ -10,4 +10,5 @@ multiplicacion=num1*num2;
 
 division=num1/num2;
 
-console.log(`la suma de los dos numeros es:${suma}  la resta de dos numeros es:${resta}  la multiplicacion de dos numeros es:${multiplicacion} la division es:${division}`);
+console.log(`la suma de los dos numeros es:${suma}  la resta de dos numeros es:${resta}  
+la multiplicacion de dos numeros es:${multiplicacion} la division es:${division}`);
